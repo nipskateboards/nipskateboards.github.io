@@ -8,44 +8,19 @@ site: bookdown
 #     css: "assets/css/CSSBackground.css"
 ---
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+```{r}
+# install.packages("htmltools")
+library(htmltools)
 
-# {.tabset .tabpills}
+tags$a(
+  href = "https://google.com",
+  "Link to Google"
+)
+```
+
+<!-- <iframe src="https://www.instagram.com/p/CboItg8vnC4/" width="200" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
+
+# {.tabset .tabfade}
 
 **Be one of the first to skate our boards!**
 
