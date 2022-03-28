@@ -1,3 +1,11 @@
+---
+output: 
+  html_document:
+    include:
+      before_body: header.html
+      after_body: footer.html
+---
+
 ## Contact us {#contact}
 
 Keep up with the news and products coming out of our small business directly by joining the mailing list.
@@ -6,8 +14,9 @@ Keep up with the news and products coming out of our small business directly by 
 
 *Please note:* All contact information is only used for Nip Skateboarding adventures.
 
-## Community chat 
+### Community chat 
 
 Strange Brew, Nip Skateboarding and other local community information can be found on the discord channel.
 
 <iframe src="https://discordapp.com/widget?id=944760186789318736&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+

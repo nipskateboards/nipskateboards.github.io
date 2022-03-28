@@ -1,0 +1,8 @@
+.upper-right-logo {
+  margin-top: 20px;
+  background-image: url("logo-black.png");
+  height: 150px;
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+}

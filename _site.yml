@@ -10,11 +10,14 @@ navbar:
 output_dir: "docs"                           # CHANGE HERE 
 output: 
   rmarkdown::html_document:
-    theme: yeti
+    # theme: yeti
     highlight: pygments
     include:
+      # before_body: header.html
       after_body: footer.html
-    css: "assets/css/CSSBackground.css"
+    # css: 
+      # - assets/css/CSSBackground.css
+      # - assets/css/
   # rmarkdown::html_document:
   #   theme: lumen
   #   highlight: textmate

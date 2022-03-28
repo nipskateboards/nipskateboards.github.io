@@ -3,12 +3,30 @@
 #   ![](bg4.jpg){width=1in}  
 #   Adding a Logo to LaTeX Title
 site: bookdown
-# output: 
-#   html_document:
+output:
+  html_document:
+    include:
+      before_body: header.html
+      after_body: footer.html
 #     css: "assets/css/CSSBackground.css"
 ---
 
-```{r}
+<!-- ```{css} -->
+<!-- #TOC::before { -->
+<!--   content: ""; -->
+<!--   display: block; -->
+<!--   height: 200px; -->
+<!--   margin: 2em 20px 40px 20px; -->
+<!--   background-image: url("logo-black.png"); -->
+<!--   background-size: contain; -->
+<!--   background-position: center center; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+
+<!-- ``` -->
+
+
+```{r include=FALSE, message=FALSE, warning=FALSE, echo = FALSE}
 # install.packages("htmltools")
 library(htmltools)
 
@@ -22,8 +40,6 @@ tags$a(
 
 # {.tabset .tabfade}
 
-**Be one of the first to skate our boards!**
-
 ```{r setup, include=TRUE, message=FALSE, warning=FALSE, echo = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 # knitr::include_graphics("assets/imgs/bg4.jpg")
@@ -32,7 +48,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{css echo = FALSE}
 body {
-  background-image: url(bg4.jpg);
+  background-image: url(bg_v1.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -58,7 +74,7 @@ h1, h2, h3 {
 ```
 
 
-```{r child = "README.md"}
+```{r child = "README.Rmd"}
 
 ```
 
