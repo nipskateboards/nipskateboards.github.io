@@ -17,7 +17,8 @@ Welcome to our new skate company based in Canberra, ACT.
 
 **Be one of the first to skate our boards!**
 
-```{r}
+```{r setup, include=TRUE, message=FALSE, warning=FALSE, echo = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
 knitr::include_graphics("assets/imgs/bg4.jpg")
 ```
 
