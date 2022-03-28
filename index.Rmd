@@ -1,0 +1,41 @@
+---
+title: "Coming soon!"
+image: "nipLogo_2022.png"
+color1: "#5A59A3"
+color2: "#C66060"
+site: bookdown
+angle: 130
+# links:
+#   - label: Insta
+#     url: "https://www.instagram.com/niptactics/"
+# output:
+#   postcards::onofre
+#   # output_dir: "docs"
+---
+
+Welcome to our new skate company based in Canberra, ACT.
+
+**Be one of the first to skate our boards!**
+
+```{r}
+knitr::include_graphics("assets/imgs/bg4.jpg")
+```
+
+
+# {.tabset .tabpills}
+
+```{r child = "preorder.Rmd"}
+
+```
+
+
+```{r child = "contact.Rmd"}
+
+```
+
+
+```{r child = "README.md"}
+
+```
+
+
