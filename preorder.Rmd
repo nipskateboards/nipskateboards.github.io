@@ -1,10 +1,15 @@
+---
+output: 
+  html_document:
+    css: "assets/css/CSSBackground.css"
+---    
 
 ## Pre-order boards {#preorder}
 
-We are currently in the final stages of the first graphic run. If you have a preference on board graphic contact me on 0481 316 760 :)
+<centre>We are currently in the final stages of the first graphic run. If you have a preference on board graphic contact me on 0481 316 760 :) </centre>
 
-```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap="caption",fig.show='hold',fig.align='center'}
-knitr::include_graphics(c("assets/imgs/nip8.5_v1.png", "assets/imgs/nip8.5_v3.png"))
+```{r, echo=FALSE,out.width="10%", out.height="10%",fig.cap="caption",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("assets/imgs/nip8.5_v1.png", "assets/imgs/niptape2.png", "assets/imgs/nip8.5_v3.png", "assets/imgs/nip8.5_v2.png", "assets/imgs/niptape3.png"))
 ``` 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">

@@ -12,6 +12,7 @@ output:
   html_document:
     theme: cosmo
     highlight: textmate
+    css: "assets/css/CSSBackground.css"
   #    include:
   #      before_body: header.html
   #      after_body: footer.html

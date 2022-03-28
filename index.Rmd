@@ -4,13 +4,9 @@ image: "nipLogo_2022.png"
 color1: "#5A59A3"
 color2: "#C66060"
 site: bookdown
-angle: 130
-# links:
-#   - label: Insta
-#     url: "https://www.instagram.com/niptactics/"
-# output:
-#   postcards::onofre
-#   # output_dir: "docs"
+# output: 
+#   html_document:
+#     css: "assets/css/CSSBackground.css"
 ---
 
 Welcome to our new skate company based in Canberra, ACT.
@@ -19,7 +15,7 @@ Welcome to our new skate company based in Canberra, ACT.
 
 ```{r setup, include=TRUE, message=FALSE, warning=FALSE, echo = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::include_graphics("assets/imgs/bg4.jpg")
+# knitr::include_graphics("assets/imgs/bg4.jpg")
 ```
 
 
