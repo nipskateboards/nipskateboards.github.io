@@ -6,4 +6,13 @@ We are a new open-source skate company based in Australia. On this site we have 
 
 ## Quick links
 
+### Open source tools
+
+This is a test of my personal front end programming skills. The objectives of this project are to:
+
+- Train my skills for the statistics support network
+- Sell a few second-hand surfboards and skateboards
+- Enjoy another aspect of surfing since I live in Canberra
+
+Templates are coming in the future but to begin with a community needs to create a proposal to be able to generate funding opportunities4 with government organisations and other funding bodies. This template should be modeled/changed to accommodate differences in state legislation but generally
 

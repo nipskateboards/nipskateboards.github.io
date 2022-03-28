@@ -1,15 +1,51 @@
 ---
-title: "Coming soon!"
-image: "nipLogo_2022.png"
-color1: "#5A59A3"
-color2: "#C66060"
+# title: |
+#   ![](bg4.jpg){width=1in}  
+#   Adding a Logo to LaTeX Title
 site: bookdown
 # output: 
 #   html_document:
 #     css: "assets/css/CSSBackground.css"
 ---
 
-Welcome to our new skate company based in Canberra, ACT.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# {.tabset .tabpills}
 
 **Be one of the first to skate our boards!**
 
@@ -19,7 +55,23 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# {.tabset .tabpills}
+```{css echo = FALSE}
+body {
+  background-image: url(bg4.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+div {
+  background-color: rgba(255, 255, 255, 0.35)   /* 35% opaque white */;
+  padding: 0.25em;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+```
 
 ```{r child = "preorder.Rmd"}
 

@@ -1,13 +1,13 @@
 ## Contact us {#contact}
 
-Keep up with the lastest news and products coming out of our small business directly by joining the mailing list.
-
-Please note: All information is only used for Nip Skateboarding adventures.
-
-## Product updates
+Keep up with the news and products coming out of our small business directly by joining the mailing list.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrkta8EKiPSNBkvaNzI_S-ZEEaMc_M4TB3G9VLQLR8zQamxA/viewform?embedded=true" width="640" height="1090" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-## Community chat (Strange Brew)
+*Please note:* All contact information is only used for Nip Skateboarding adventures.
+
+## Community chat 
+
+Strange Brew, Nip Skateboarding and other local community information can be found on the discord channel.
 
 <iframe src="https://discordapp.com/widget?id=944760186789318736&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
