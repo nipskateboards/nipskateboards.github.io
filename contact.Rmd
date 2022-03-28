@@ -14,7 +14,7 @@ Keep up with the news and products coming out of our small business directly by 
 
 *Please note:* All contact information is only used for Nip Skateboarding adventures.
 
-### Community chat 
+### Community chat {#chat}
 
 Strange Brew, Nip Skateboarding and other local community information can be found on the discord channel.
 
