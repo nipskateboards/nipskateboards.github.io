@@ -1,20 +1,20 @@
 name: "Nip Skateboards"
-navbar:
-  left:
-    - text: "Home"
-      href: index.html  # CHANGE HERE 
-    - text: "Pre-order"
-      href: preorder.html  # CHANGE HERE 
-    - text: "Join"
-      href: contact.html  # CHANGE HERE 
+# navbar:
+#   left:
+#     - text: "Home"
+#       href: index.html  # CHANGE HERE 
+#     - text: "Pre-order"
+#       href: preorder.html  # CHANGE HERE 
+#     - text: "Join"
+#       href: Contact.html  # CHANGE HERE 
 output_dir: "docs"                           # CHANGE HERE 
 output: 
   rmarkdown::html_document:
     # theme: yeti
-    highlight: pygments
+    # highlight: pygments
     include:
-      # before_body: header.html
-      after_body: footer.html
+      before_body: head.html
+      after_body: headerfromFOOT.html
     # css: 
       # - assets/css/CSSBackground.css
       # - assets/css/

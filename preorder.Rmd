@@ -1,19 +1,25 @@
 ---
-output: 
-  html_document:
-    include:
-      after_body: footer.html
+title: "Pre-order"
+# output: 
+#   html_document:
+#     include:
+#       # before_body: header.html
+#       after_body: footer.html
 ---    
 
 ## Pre-order boards {#preorder}
 
 **Be one of the first to skate our boards!**
 
-We are currently in the final stages of the first graphic run. If you have a preference on board graphic contact me on *0481 316 760* :)
+We are currently in the final stages of the first graphic run. If you have a preference on board graphic contact us:
+
+*0481 316 760* :)
 
 ```{r, echo=FALSE,out.width="10%", out.height="10%",fig.cap="A range of concept boards from early 2022.",fig.show='hold',fig.align='center'}
 knitr::include_graphics(c("assets/imgs/nip8.5_v1.png", "assets/imgs/niptape2.png", "assets/imgs/nip8.5_v3.png", "assets/imgs/nip8.5_v2.png", "assets/imgs/niptape3.png"))
 ``` 
+
+<!-- Make paypal.html instead -->
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

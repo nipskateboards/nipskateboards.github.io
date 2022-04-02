@@ -1,14 +1,8 @@
 ---
-# title: |
-#   ![](bg4.jpg){width=1in}  
-#   Adding a Logo to LaTeX Title
+title: |
+  ![](bg4.jpg){width=2in}  
+  We are a new open-source skate company based in Australia.
 site: bookdown
-output:
-  html_document:
-    include:
-      before_body: header.html
-      after_body: footer.html
-#     css: "assets/css/CSSBackground.css"
 ---
 
 <!-- ```{css} -->
@@ -74,8 +68,8 @@ h1, h2, h3 {
 ```
 
 
-```{r child = "README.Rmd"}
-
-```
+<!-- # ```{r child = "README.Rmd"} -->
+<!-- #  -->
+<!-- # ``` -->
 
 
