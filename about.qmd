@@ -1,0 +1,13 @@
+# About Nip
+
+Nip is a character that has developed over the past several years of skateboarding. Nip is a character that we have been developing for years. As we find time we add and develop the drawings till a point they are ready to run skateboard prints of nip.
+
+[nipskateboards.github.io](https://nipskateboards.github.io)
+
+## Open-source software development
+
+We only use open source tools to develop our resources including photo editing software like GIMP and publishing using github pages. By combining these open tools into production we continue and support the development of software to everyone in the open community.
+
+<!--On this site we have included the template needed to generate a similar website using open-source tools. Contact us if you would like some help to set this up for your small business or company.-->
+
+![Nip logo](/logo.png)   

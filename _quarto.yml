@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  site-url: https://www.nipskateboards.com
+  title: "Nip Skate Company"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - file: about.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

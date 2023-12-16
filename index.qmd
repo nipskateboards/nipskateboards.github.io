@@ -1,0 +1,19 @@
+---
+logo: logo.png
+---
+
+![Nip logo](/logo.png)   
+
+<style>
+  body {
+  background-image: url("https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
+
+<centre>
+Nip website
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+</centre>
