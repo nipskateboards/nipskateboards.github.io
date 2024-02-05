@@ -2,7 +2,7 @@
 logo: logo.png
 ---
 
-![Nip logo](/logo.png)   
+<!-- ![Nip logo](/logo.png)    -->
 
 <style>
   body {

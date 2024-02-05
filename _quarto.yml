@@ -2,14 +2,17 @@ project:
   type: website
 
 website:
-  site-url: https://www.nipskateboards.com
+  # logo: logo.png
+  favicon: logo.png
+  site-url: https://www.nipskateboards.github.io
   title: "Nip Skate Company"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - file: about.qmd
-        text: Contact
+    tools:
+      - icon: github
+        href: https://github.com/nipskateboards
+        menu:
+        - file: about.qmd
+          text: Contact
 
 format:
   html:

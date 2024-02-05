@@ -1,1 +1,1 @@
-Sitemap: https://www.nipskateboards.com/sitemap.xml
+Sitemap: https://www.nipskateboards.github.io/sitemap.xml

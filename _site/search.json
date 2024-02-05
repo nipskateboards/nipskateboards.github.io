@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nip Skate Company",
-    "section": "",
-    "text": "Nip logo\n\n\n\n Nip website To learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Nip",
@@ -19,5 +12,12 @@
     "title": "About Nip",
     "section": "",
     "text": "We only use open source tools to develop our resources including photo editing software like GIMP and publishing using github pages. By combining these open tools into production we continue and support the development of software to everyone in the open community.\n\n\n\n\nNip logo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nip Skate Company",
+    "section": "",
+    "text": "Nip website To learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
